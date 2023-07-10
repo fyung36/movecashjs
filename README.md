@@ -18,7 +18,7 @@ yarn add movecashjs
 
 ## Usage
 
-### `initializeMoveCash`
+### `initMoveCash`
 
 This function returns a `Promise` that resolves with a `Movecash`
 object once Movecashjs has loaded. 
